@@ -25,4 +25,4 @@ function palavrasUnicas(str) {
 }
 
 let texto = "olá olá mundo mundo";
-console.log(palavrasUnicas(texto)); // Saída: ["olá", "mundo"]
+console.log(palavrasUnicas(texto));
